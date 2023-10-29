@@ -44,7 +44,7 @@ jobs:
           tags: |
             ntdgy2001/linux-qq:latest
             ntdgy2001/linux-qq:${{ env.COMMIT_HASH }}
-            ghcr.io/super-moe/linux-qq:latest
-            ghcr.io/super-moe/linux-qq:${{ env.COMMIT_HASH }}
+            ghcr.io/ntdgy/linux-qq:latest
+            ghcr.io/ntdgy/linux-qq:${{ env.COMMIT_HASH }}
           file: ./Dockerfile
     
