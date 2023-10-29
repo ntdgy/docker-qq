@@ -15,7 +15,7 @@
 使用的 docker 为actions自动构建的image,位于 https://hub.docker.com/r/ntdgy2001/linux-qq 或者位于本仓库的packages目录下。
 如果需要自己构建，请将 docker-compose.yml 中的 build 项取消注释并注释掉 image 项。
 
-使用 https://github.com/super-moe/linuxqq 作为预打包软件。
+使用 https://github.com/ntdgy/linuxqq 作为预打包软件。
 
 ## 运行
 
