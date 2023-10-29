@@ -1,6 +1,6 @@
 # qq-docker
 
-容器化的新版本 electron QQ.  
+容器化的新版本 electron QQ.  本仓库根据 https://github.com/rmb122/qq-docker 修改而来。
 
 ## 修改
 建议在 `/etc/docker/daemon.json` 内添加 
